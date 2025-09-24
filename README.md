@@ -1,8 +1,1 @@
-Final XI – Best Team of T20 World Cup 2022
-
-Based on performance metrics (runs, strike rate, averages, wickets, economy) across categories: Power Hitters, Anchors, Finishers, All-Rounders, and Specialist Bowlers
-
-The dashboard compiles the final 11 players selected from the tournament
-
-Acts as the ultimate outcome of the analysis﻿# t20__best_team
 
